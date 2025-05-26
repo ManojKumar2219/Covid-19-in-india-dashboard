@@ -1,0 +1,5 @@
+2.9s 1 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+6.1s 2 [NbConvertApp] Executing notebook with kernel: python3
+203.9s 3 [NbConvertApp] Writing 36277664 bytes to __notebook__.ipynb
+204.8s 4 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+209.2s 5 [NbConvertApp] Writing 35921827 bytes to __results__.html
